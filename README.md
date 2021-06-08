@@ -1,5 +1,7 @@
 찰떡하우스
 ---
+설명 영상
+https://youtu.be/AGz3zyy7urY
 
 주요기능
 
