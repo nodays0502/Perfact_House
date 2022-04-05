@@ -1,13 +1,13 @@
-찰떡하우스
----
-설명 영상
-https://youtu.be/AGz3zyy7urY
+# 찰떡하우스
 
-주요기능
+COVID-19로 인해 UN-TACT 시대가 열렸습니다. 이러한 시대적 상황을 고려하여 부동산 매물을 webRTC를 사용한 화상 통화 서비스를 통해 집에서도 매물을 확인할 수 있는 서비스를 제공하고 해당 매물 근처에 어떤 편의 시설이 존재하는지 알려주는 서비스를 제공하는 플랫폼입니다.
 
-실행 방법
-1. STS에서 lasthappyhouse를 import한다.
-2. 해당 프로젝트를 실행한다.
-3. kakao API KEY를 입력한다.
-4. npm install를 통해 package.json관련 패키지를 다운 받는다.
-5. npm run server를 통해 실행한다.
+# 기술 스택
+
+![image](https://user-images.githubusercontent.com/76464235/161688678-195cfabb-f7dc-4fbd-8169-560276d05aa2.png)
+
+# 팀원 역할
+|팀원|담당 업무|
+|------|---|
+|최승재|백엔드 개발, 프론트 개발|
+|하태린|백엔드 개발, 프론트 개발, Web RTC|
